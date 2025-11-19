@@ -1,6 +1,6 @@
 # ✨ Who am I?
 
-My name is Saugat Sapkota, and I am a passionate web developer and designer.
+I am a passionate web developer and designer.
 
 ---
 
